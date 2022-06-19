@@ -1,1 +1,3 @@
-# To run the exe file just click it after making sure the file named Elec_24.csv is in the same directory
+# Download the exe file from https://github.com/Eyalcohenx/ComputationalBiologyEX3
+
+# To run the exe just click it twice after making sure you have the file Elec_24.csv in the same directory
