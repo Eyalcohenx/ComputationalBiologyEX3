@@ -1,0 +1,1 @@
+# To run the exe file just click it after making sure the file named Elec_24.csv is in the same directory
